@@ -3,7 +3,6 @@
     <signo>
         <nome>Áries</nome>
         <elemento>Fogo</elemento>
-        <ritmo>Cardinal</ritmo>
         <regente>Marte</regente>
         <dataInicio>21/03</dataInicio>
         <dataFim>19/04</dataFim>
@@ -11,7 +10,6 @@
     <signo>
         <nome>Touro</nome>
         <elemento>Terra</elemento>
-        <ritmo>Fixo</ritmo>
         <regente>Vênus</regente>
         <dataInicio>20/04</dataInicio>
         <dataFim>20/05</dataFim>
@@ -19,7 +17,6 @@
     <signo>
         <nome>Gêmeos</nome>
         <elemento>Ar</elemento>
-        <ritmo>Mutável</ritmo>
         <regente>Mercúrio</regente>
         <dataInicio>21/05</dataInicio>
         <dataFim>21/06</dataFim>
@@ -27,7 +24,6 @@
     <signo>
         <nome>Câncer</nome>
         <elemento>Água</elemento>
-        <ritmo>Cardinal</ritmo>
         <regente>Lua</regente>
         <dataInicio>22/06</dataInicio>
         <dataFim>22/07</dataFim>
@@ -35,7 +31,6 @@
     <signo>
         <nome>Leão</nome>
         <elemento>Fogo</elemento>
-        <ritmo>Fixo</ritmo>
         <regente>Sol</regente>
         <dataInicio>23/07</dataInicio>
         <dataFim>22/08</dataFim>
@@ -43,7 +38,6 @@
     <signo>
         <nome>Virgem</nome>
         <elemento>Terra</elemento>
-        <ritmo>Mutável</ritmo>
         <regente>Mercúrio</regente>
         <dataInicio>23/08</dataInicio>
         <dataFim>22/09</dataFim>
@@ -51,7 +45,6 @@
     <signo>
         <nome>Libra</nome>
         <elemento>Ar</elemento>
-        <ritmo>Cardinal</ritmo>
         <regente>Vênus</regente>
         <dataInicio>23/09</dataInicio>
         <dataFim>22/10</dataFim>
@@ -59,7 +52,6 @@
     <signo>
         <nome>Escorpião</nome>
         <elemento>Água</elemento>
-        <ritmo>Fixo</ritmo>
         <regente>Marte e Plutão</regente>
         <dataInicio>23/10</dataInicio>
         <dataFim>21/11</dataFim>
@@ -67,7 +59,6 @@
     <signo>
         <nome>Sagitário</nome>
         <elemento>Fogo</elemento>
-        <ritmo>Mutável</ritmo>
         <regente>Júpiter</regente>
         <dataInicio>22/11</dataInicio>
         <dataFim>21/12</dataFim>
@@ -75,7 +66,6 @@
     <signo>
         <nome>Capricórnio</nome>
         <elemento>Terra</elemento>
-        <ritmo>Cardinal</ritmo>
         <regente>Saturno</regente>
         <dataInicio>22/12</dataInicio>
         <dataFim>19/01</dataFim>
@@ -83,7 +73,6 @@
     <signo>
         <nome>Aquário</nome>
         <elemento>Ar</elemento>
-        <ritmo>Fixo</ritmo>
         <regente>Saturno e Urano</regente>
         <dataInicio>20/01</dataInicio>
         <dataFim>18/02</dataFim>
@@ -91,7 +80,6 @@
     <signo>
         <nome>Peixes</nome>
         <elemento>Água</elemento>
-        <ritmo>Mutável</ritmo>
         <regente>Júpiter e Netuno</regente>
         <dataInicio>19/02</dataInicio>
         <dataFim>20/03</dataFim>
